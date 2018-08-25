@@ -1,5 +1,7 @@
 package SpringRest.model;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Topic {
 
 	   private int id;
