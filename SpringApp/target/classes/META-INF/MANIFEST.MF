@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringRestService
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nEW u
+Implementation-Vendor-Id: SpringRestService
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringApp
+Created-By: Maven Integration for Eclipse
+
